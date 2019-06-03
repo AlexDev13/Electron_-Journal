@@ -1,0 +1,12 @@
+{
+    "name": "sony/php",
+    "authors": [
+        {
+            "name": "Alexander",
+            "email": "mr.haizenbeerg666@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpexcel": "^1.8"
+    }
+}
